@@ -1,0 +1,24 @@
+{
+    "name": "sasha",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "",
+        "test": "",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chigik45/sasha.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Chigik45/sasha/issues"
+    },
+    "homepage": "https://github.com/Chigik45/sasha#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "axios": ""
+    }
+}
